@@ -4,4 +4,4 @@ export const notify = (message, type) => {
   toast[type](message);
 };
 
-export const API_URL = "https://planist-api.vercel.app/";
+export const API_URL = "https://planist-api.vercel.app";
